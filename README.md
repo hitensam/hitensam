@@ -41,18 +41,18 @@ Here are some ideas to get you started:
   <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1642082724" alt="nodejs" width="40" height="40"/> </a>
 
   
-<!-- ---
 
- ![Bhavay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluthra999&show_icons=true&theme=highcontrast)
+
+ ![Hiten's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitensam&show_icons=true&theme=highcontrast)
  
- [![Bhavay's github activity graph](https://activity-graph.herokuapp.com/graph?username=bluthra999&theme=react-dark)](https://github.com/bluthra999/github-readme-activity-graph)
+ [![Hiten's github activity graph](https://activity-graph.herokuapp.com/graph?username=hitensam&theme=react-dark)](https://github.com/hitensam/github-readme-activity-graph)
  
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluthra999&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hitensam&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluthra999&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/bluthra999/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitensam&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/bluthra999/github-readme-stats)
+ 
