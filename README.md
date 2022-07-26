@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Hiten Samalia
+👋 Hi, I’m Hiten Samalia\n
 👀 I’m interested in Machine Learning and AI
 🌱 I’m currently learning Java Scrpit
 💞️ I’m looking to collaborate on anything that intersting that I can get my hands on
