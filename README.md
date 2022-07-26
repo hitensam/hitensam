@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I’m Hiten Samalia <br>
-👀 I’m interested in Machine Learning and AI
-🌱 I’m currently learning Java Scrpit
-💞️ I’m looking to collaborate on anything that intersting that I can get my hands on
+👀 I’m interested in Machine Learning and AI<br>
+🌱 I’m currently learning Java Scrpit<br>
+💞️ I’m looking to collaborate on anything that intersting that I can get my hands on.<br>
+
