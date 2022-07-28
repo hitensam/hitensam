@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I’m Hiten Samalia <br>
 👀 I’m interested in Machine Learning and AI<br>
-🌱 I’m currently learning Java Scrpit<br>
+🌱 I’m currently learning JavaScript<br>
 💞️ I’m looking to collaborate on anything that intersting that I can get my hands on.<br>
 
 <img align="right" width="300px" src="https://www.pinclipart.com/picdir/big/90-907332_json-at-master-github-octocat-clipart.png">
