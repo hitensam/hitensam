@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "25px"> Hi, I’m Hiten Samalia 
-<!--Hi there 👋-->
+<!--###Hi there 👋-->
 
 <!--
 **hitensam/hitensam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Hiten Samalia <br>
+<!-- 👋 Hi, I’m Hiten Samalia <br> -->
 👀 I’m interested in Machine Learning and AI<br>
 🌱 I’m currently learning JavaScript<br>
 💞️ I’m looking to collaborate on anything that intersting that I can get my hands on.<br>
