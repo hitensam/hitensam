@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "25px"> Hi, I’m Hiten Samalia 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height = "75px"> Hi, I’m Hiten Samalia 
 <!--###Hi there 👋-->
 
 <!--
