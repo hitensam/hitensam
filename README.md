@@ -61,8 +61,6 @@ Here are some ideas to get you started:
 <br>
 <!-- <img width = "100%" src = "github-metrics.svg" > -->
 
-<img width="100%" src="https://github.com/hitensam/hitensam/blob/output/github-contribution-grid-snake.svg" >
-
 [![@hiten__007's Holopin board](https://holopin.me/hiten__007)](https://holopin.io/@hiten__007)
   
 
