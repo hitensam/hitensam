@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <img src = "https://github-profile-trophy.vercel.app/?username=hitensam&theme=monokai" width = "100%" >
 <br>
 <br>
-<img width = "100%" src = "github-metrics.svg" >
+<!-- <img width = "100%" src = "github-metrics.svg" > -->
 
 <img width="100%" src="https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" >
 
