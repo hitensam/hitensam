@@ -52,6 +52,13 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hitensam&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- -->
+<img src = "https://github-profile-trophy.vercel.app/?username=hitensam&theme=monokai" width = "100%" >
+<br>
+<br>
+<img width = "100%" src = "github-metrics.svg" >
+
+<img width="100%" src="https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" >
 
 [![@hiten__007's Holopin board](https://holopin.me/hiten__007)](https://holopin.io/@hiten__007)
   
