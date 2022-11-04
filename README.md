@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 [![@hiten__007's Holopin board](https://holopin.me/hiten__007)](https://holopin.io/@hiten__007)
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitensam&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/bluthra999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitensam&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/hitensam/github-readme-stats)
  
