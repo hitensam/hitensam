@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 [![@hiten__007's Holopin board](https://holopin.me/hiten__007)](https://holopin.io/@hiten__007)
 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)(https://www.hackerrank.com/hitensam78)
+![Hackerrank](https://www.hackerrank.com/hitensam78)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitensam&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/hitensam/github-readme-stats)
  
