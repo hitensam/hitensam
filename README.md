@@ -1,23 +1,7 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height = "75px"> Hi, I’m Hiten Samalia 
-<!--###Hi there 👋-->
-
-<!--
-**hitensam/hitensam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Ecomerce Project
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Web 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 👋 Hi, I’m Hiten Samalia <br> -->
-👀 I’m interested in Machine Learning and AI<br>
-🌱 I’m currently learning JavaScript<br>
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px" height = "75px"> Hi, I’m Hiten Samalia  -->
+👋 Hi, I’m Hiten Samalia <br>
+👀 I’m interested in Machine Learning, AI and IOT<br>
+🌱 I’m currently learning Java<br>
 💞️ I’m looking to collaborate on anything that intersting that I can get my hands on.<br>
 
 <img align="right" width="300px" src="https://www.pinclipart.com/picdir/big/90-907332_json-at-master-github-octocat-clipart.png">
@@ -59,7 +43,6 @@ Here are some ideas to get you started:
 <!-- -->
 <img src = "https://github-profile-trophy.vercel.app/?username=hitensam&theme=monokai" width = "100%" >
 <br>
-<br>
 <!-- <img width = "100%" src = "github-metrics.svg" > -->
 
 [![@hiten__007's Holopin board](https://holopin.me/hiten__007)](https://holopin.io/@hiten__007)
@@ -67,4 +50,5 @@ Here are some ideas to get you started:
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hitensam78)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitensam&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/hitensam/github-readme-stats)
- 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hitensam.hitensam)
