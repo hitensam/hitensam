@@ -47,18 +47,12 @@
 
 <br>
 
-![Hiten's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitensam&show_icons=true&theme=highcontrast)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hitensam&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img src="https://github-profile-trophy.vercel.app/?username=hitensam&theme=monokai" width="100%">
 
 <br>
 
 [![@hiten__007's Holopin board](https://holopin.me/hiten__007)](https://holopin.io/@hiten__007)
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hitensam78)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitensam&layout=compact&theme=highcontrast&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/hitensam/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hitensam.hitensam)
